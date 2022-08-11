@@ -1,0 +1,28 @@
+Added Pin To Net: NetName=GND Pin=OK1-2
+Added Pin To Net: NetName=GND Pin=OK2-2
+Added Pin To Net: NetName=GND Pin=OK3-2
+Added Pin To Net: NetName=GND Pin=OK4-2
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-19
+Added Pin To Net: NetName=NetJ3_1 Pin=U1-20
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-29
+Added Pin To Net: NetName=NetR1_2 Pin=U1-30
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-32
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-31
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetU1_21 Pin=U1-21
+Added Pin To Net: NetName=NetU1_21 Pin=Y1-4
+Added Net: Name=NetU1_21
+Added Pin To Net: NetName=NetU1_28 Pin=U1-28
+Added Pin To Net: NetName=NetU1_28 Pin=Y1-3
+Added Net: Name=NetU1_28
+Added Pin To Net: NetName=NetY1_2 Pin=Y1-2
+Added Net: Name=NetY1_2
+Change Class Name : Old Net Name=Sheet2 New Net Name=GR
+Added Room: Name=GR
+Added Room: Name=Sheet1

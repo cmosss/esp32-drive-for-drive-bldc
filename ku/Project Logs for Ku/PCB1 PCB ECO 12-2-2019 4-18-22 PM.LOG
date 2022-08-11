@@ -1,0 +1,21 @@
+Added Component: Designator=H1(1/8in Fastener Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(1/8in Fastener Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(1/8in Fastener Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(1/8in Fastener Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H5(1/8in Fastener Hole)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H6(1/8in Fastener Hole)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet1 Member=Component H1 1/8in Hole by 1/4in Ring Fastener
+Added Member To Class: ClassName=Sheet1 Member=Component H2 1/8in Hole by 1/4in Ring Fastener
+Added Member To Class: ClassName=Sheet1 Member=Component H3 1/8in Hole by 1/4in Ring Fastener
+Added Member To Class: ClassName=Sheet1 Member=Component H4 1/8in Hole by 1/4in Ring Fastener
+Added Member To Class: ClassName=Sheet1 Member=Component H5 1/8in Hole by 1/4in Ring Fastener
+Added Member To Class: ClassName=Sheet1 Member=Component H6 1/8in Hole by 1/4in Ring Fastener
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 MCP4921-E/MS
+Added Room: Name=GR
+Added Room: Name=Sheet1

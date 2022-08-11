@@ -1,0 +1,97 @@
+Added Component: Designator=OK1(LITEON LTV-817)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817/Sharp%20Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=OK2(LITEON LTV-817)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817/Sharp%20Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=OK3(LITEON LTV-817)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817/Sharp%20Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=OK4(LITEON LTV-817)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-4 Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817/Sharp%20Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805R-220)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0805R-220)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0805R-220)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0805R-220)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(SOIC127P600X175-8L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP4921-E/MS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MSOP-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP4921-E/MS/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND2 Pin=OK1-2
+Added Pin To Net: NetName=GND2 Pin=OK2-2
+Added Pin To Net: NetName=GND2 Pin=OK3-2
+Added Pin To Net: NetName=GND2 Pin=OK4-2
+Added Net: Name=GND2
+Added Pin To Net: NetName=GND Pin=OK1-3
+Added Pin To Net: NetName=GND Pin=OK2-3
+Added Pin To Net: NetName=GND Pin=OK3-3
+Added Pin To Net: NetName=GND Pin=OK4-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetOK1_1 Pin=OK1-1
+Added Pin To Net: NetName=NetOK1_1 Pin=R1-1
+Added Net: Name=NetOK1_1
+Added Pin To Net: NetName=NetOK1_4 Pin=OK1-4
+Added Net: Name=NetOK1_4
+Added Pin To Net: NetName=NetOK2_1 Pin=OK2-1
+Added Pin To Net: NetName=NetOK2_1 Pin=R2-1
+Added Net: Name=NetOK2_1
+Added Pin To Net: NetName=NetOK2_4 Pin=OK2-4
+Added Net: Name=NetOK2_4
+Added Pin To Net: NetName=NetOK3_1 Pin=OK3-1
+Added Pin To Net: NetName=NetOK3_1 Pin=R3-1
+Added Net: Name=NetOK3_1
+Added Pin To Net: NetName=NetOK3_4 Pin=OK3-4
+Added Net: Name=NetOK3_4
+Added Pin To Net: NetName=NetOK4_1 Pin=OK4-1
+Added Pin To Net: NetName=NetOK4_1 Pin=R4-1
+Added Net: Name=NetOK4_1
+Added Pin To Net: NetName=NetOK4_4 Pin=OK4-4
+Added Net: Name=NetOK4_4
+Added Pin To Net: NetName=NetY1_1 Pin=Y1-1
+Added Pin To Net: NetName=NetY1_1 Pin=Y1-6
+Added Net: Name=NetY1_1
+Added Pin To Net: NetName=NetY1_5 Pin=Y1-5
+Added Pin To Net: NetName=NetY1_5 Pin=Y1-7
+Added Net: Name=NetY1_5
+Added Pin To Net: NetName=NetY1_8 Pin=Y1-8
+Added Net: Name=NetY1_8
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

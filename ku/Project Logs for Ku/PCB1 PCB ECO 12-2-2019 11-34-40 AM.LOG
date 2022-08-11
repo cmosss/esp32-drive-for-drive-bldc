@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Net: Name=NetU1_1
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Net: Name=NetU1_5
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Net: Name=NetU1_6
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Net: Name=NetU1_8
+Added Member To Class: ClassName=GR Member=Component U1 ESP32-GOOUUU-32D
+Added Room: Name=GR
+Added Room: Name=Sheet1
